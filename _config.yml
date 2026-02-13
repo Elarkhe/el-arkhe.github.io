@@ -1,8 +1,13 @@
 title: El Arkhe
 description: Talleres en análisis multi-ómico y exploración científico–cultural.
-theme: just-the-docs
 
 url: "https://el-arkhe.github.io"
 
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
 search_enabled: true
 nav_sort: case_insensitive
+
+logo: "/assets/img/el_arkhe_logo_under_512kb.jpg"
