@@ -12,6 +12,6 @@ has_children: true
 ## ✅ scRNA-seq — ACTIVO
 🔗 https://github.com/el-arkhe/scrnaseq-workshop
 
-## 🟡 scATAC-seq — Planeado
+## 🟡 scATAC-seq — En desarrollo
 
-## 🟡 Multiome — Planeado
+## 🟡 Multiome — En desarrollo
