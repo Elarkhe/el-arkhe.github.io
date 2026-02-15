@@ -1,6 +1,6 @@
 ---
 title: "El Arkhe — Talleres Multi-Omics"
-image: "el_arkhe_logo_under_512kb.png"
+image: "el_arkhe_logo_under_512kb.jpg"
 links:
   - label: Talleres (índice)
     url: "https://el-arkhe.github.io/talleres/"
@@ -16,8 +16,11 @@ output:
 
 **Formación especializada en análisis multi-ómico y exploración científico–cultural**
 
+<!--
 - **Duración:** 4 días (24–28 h)  
 - **Modalidad:** presencial u online · **Idioma:** español  
 - **Formato:** grupos reducidos · soporte técnico asistido
+-->
+**Talleres:** 
 
-**Talleres:** scRNA-seq · scATAC-seq · Multiome
+#### scRNA-seq · scATAC-seq · Multiome scRNA-seq + scATAC-seq
