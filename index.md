@@ -6,9 +6,18 @@ nav_order: 1
 
 # El Arkhe
 
-**Talleres en análisis multi-ómico y exploración científico–cultural**
+**Formación especializada en análisis multi-ómico y exploración científico–cultural**
 
 Coordinación general: **Cynthia S. Cardinault, PhD**  
-✉️ elarkhe@gmail.com · México
+México · ✉️ **elarkhe@gmail.com**
 
-- [Ver talleres](talleres/index.html)
+---
+
+## Línea actual: Talleres Multi-Omics
+
+- **scRNA-seq** — ✅ Activo  
+- **scATAC-seq** — 🟡 En desarrollo  
+- **Multiome (scRNA-seq + scATAC-seq)** — 🟡 En desarrollo  
+
+👉 **[Ver índice de talleres](talleres/index.html)**  
+👉 **[Contactar / solicitar información](talleres/contacto.html)**
