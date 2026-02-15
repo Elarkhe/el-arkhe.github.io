@@ -16,12 +16,12 @@ rmarkdown::render(
 
 message("✅ Postcard HTML generada: ", file.path(out_html_dir, "index.html"))
 
-# OPCIONAL: Exportar a PNG (para incrustar en páginas)
-# Requiere webshot2 y un navegador Chromium disponible en tu máquina.
-# install.packages("webshot2")
-# webshot2::webshot(
-#   url = file.path(out_html_dir, "index.html"),
-#   file = "assets/img/postcard_multiomics.png",
-#   vwidth = 1200, vheight = 700
-# )
-# message("✅ Postcard PNG generada: assets/img/postcard_multiomics.png")
+# Exportar a PNG (para incrustar en páginas)
+library(webshot2)
+
+webshot(
+  url  = "assets/postcards/jolla/index.html",
+  file = "assets/img/postcard_talleres_multiomics.png",
+  vwidth  = 1200,
+  vheight = 900
+)
