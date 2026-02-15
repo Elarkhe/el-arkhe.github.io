@@ -5,6 +5,8 @@ parent: Talleres
 nav_order: 1
 ---
 
+![El Arkhe — Talleres Multi-Omics](/assets/img/postcard_talleres_multiomics.png)
+
 # Taller scRNA-seq
 
 {: .label .label-green }
