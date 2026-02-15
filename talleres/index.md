@@ -18,6 +18,7 @@ Repositorio de referencia: https://github.com/el-arkhe/scrnaseq-workshop
 ## Talleres disponibles
 
 ### ✅ scRNA-seq — Activo
+🔎 [Versión visual institucional (1 página)](/assets/postcards/jolla/index.html)  
 Introducción guiada al análisis de expresión génica a nivel de célula individual.  
 **[Ver ficha del taller](scrna_seq.html)**
 
