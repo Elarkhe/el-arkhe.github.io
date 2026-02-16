@@ -22,6 +22,6 @@ library(webshot2)
 webshot(
   url  = "assets/postcards/jolla/index.html",
   file = "assets/img/postcard_talleres_multiomics.png",
-  vwidth  = 1200,
-  vheight = 900
+  vwidth  = 1400,
+  vheight = 1000
 )
