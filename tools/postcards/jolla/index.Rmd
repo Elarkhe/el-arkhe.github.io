@@ -5,11 +5,11 @@ links:
   - label: Indice Talleres
     url: "https://elarkhe.github.io/talleres/indice_talleres/"
   - label: Enfoque
-    url: "https://elarkhe.github.io/talleres/modelo_ensenanza.html"
+    url: "https://elarkhe.github.io/talleres/modelo_ensenanza/"
   - label: Términos
-    url: "https://elarkhe.github.io/talleres/terminos_admon.html"
+    url: "https://elarkhe.github.io/talleres/terminos_admon/"
   - label: Contacto
-    url: "mailto:elarkhe@gmail.com"
+    url: "https://elarkhe.github.io/talleres/contacto/"
 output:
   postcards::jolla
 ---
