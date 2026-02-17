@@ -49,12 +49,11 @@ Adicionalmente, pueden aplicarse apoyos específicos gestionados por El Arkhe, d
 
 ### Taller scRNA-seq
 
-{: .label .label-green }
-ACTIVO
-
 Análisis de expresión génica a nivel de célula individual para explorar diversidad celular, estados transcripcionales y organización funcional de tejidos complejos.
 
 **Repositorio de referencia:**  
+{: .label .label-green }
+ACTIVO
 [scrnaseq-workshop](https://github.com/el-arkhe/scrnaseq-workshop)
 
 ---
