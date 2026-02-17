@@ -41,21 +41,19 @@ México
 ✉️ [elarkhe@gmail.com](mailto:elarkhe@gmail.com)
 
 ---
-<!--
-<div style="text-align:center; margin-top:60px; opacity:0.85;">
-  <script type="text/javascript" id="clustrmaps"
-    src="//clustrmaps.com/map_v2.js?d=KL_rxoyvwLLAV8IA3mE1zgoA43OAbDIlda4lFKHNGRU&cl=ffffff&w=a">
-  </script>
-</div>
-
-{% include clustrmaps.html %}
--->
-
-<div style="display:flex; justify-content:center; margin-top:100px; opacity:0.6;">
-  <a href="https://clustrmaps.com/site/1c2m8" title="Visitor map">
-    <img src="https://clustrmaps.com/map_v2.png?d=KL_rxoyvwLLAV8IA3mE1zgoA43OAbDIlda4lFKHNGRU&cl=ffffff" alt="Visitor map"/>
+<div style="display:flex; justify-content:center; margin-top:100px; margin-bottom:20px;">
+  <a href="https://clustrmaps.com/site/1c2m8" title="Visitor map" style="display:inline-block;">
+    <img
+      src="https://clustrmaps.com/map_v2.png?d=KL_rxoyvwLLAV8IA3mE1zgoA43OAbDIlda4lFKHNGRU&cl=ffffff"
+      alt="Visitor map"
+      style="width: 420px; max-width: 90%; height: auto; opacity: 0.85;"
+    />
   </a>
 </div>
+
+<p style="text-align:center; opacity:0.7; margin-top:40px;">
+© 2026 El Arkhé · México
+</p>
 
 
 
