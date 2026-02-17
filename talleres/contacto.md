@@ -16,4 +16,3 @@ Sugerido incluir:
 - fechas tentativas
 - perfil del grupo (licenciatura / posgrado / personal técnico)
 
----

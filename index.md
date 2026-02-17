@@ -33,10 +33,9 @@ Se concibe como una línea de producción cultural en desarrollo, con proyecció
 
 Este sitio reúne información sobre las líneas formativas activas y los proyectos en desarrollo. Se invita a recorrer sus secciones para conocer con mayor detalle la propuesta de El Arkhé.
 
-<br>
 
-**Coordinación general:**  
-**Cynthia S. Cardinault, PhD**  
+Coordinación general:
+Cynthia S. Cardinault, PhD
 México  
 ✉️ [elarkhe@gmail.com](mailto:elarkhe@gmail.com)
 

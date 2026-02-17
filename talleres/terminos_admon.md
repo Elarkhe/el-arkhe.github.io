@@ -18,4 +18,4 @@ Los detalles logísticos —incluyendo modalidad, calendario, requerimientos té
 
 Cualquier ajuste posterior deberá ser consensuado por ambas partes.
 
----
+
