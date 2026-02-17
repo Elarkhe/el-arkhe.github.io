@@ -4,7 +4,7 @@ title: El Arkhe
 nav_order: 1
 ---
 
-Bienvenida/o
+**Bienvenida/o**
 
 
 **El Arkhé** es una plataforma formativa y cultural dedicada a las ciencias ómicas desde múltiples lenguajes. Integra formación especializada, soporte técnico y producción cultural, articulando educación, arte y pensamiento científico como un mismo territorio.
@@ -41,12 +41,17 @@ México
 ✉️ [elarkhe@gmail.com](mailto:elarkhe@gmail.com)
 
 ---
-
+<!--
 <div style="text-align:center; margin-top:60px; opacity:0.85;">
   <script type="text/javascript" id="clustrmaps"
     src="//clustrmaps.com/map_v2.js?d=KL_rxoyvwLLAV8IA3mE1zgoA43OAbDIlda4lFKHNGRU&cl=ffffff&w=a">
   </script>
 </div>
+-->
+
+{% include clustrmaps.html %}
+
+
 
 
 
