@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modelo de Enseñanza
-parent: Talleres
+parent: Talleres Multiomics
 nav_order: 1
 ---
 

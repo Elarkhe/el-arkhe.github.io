@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Términos Administrativos
-parent: Talleres
+parent: Talleres Multiomics
 nav_order: 2
 ---
 

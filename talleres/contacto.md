@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contacto
-parent: Talleres
+parent: Talleres Multiomics
 nav_order: 3
 ---
 

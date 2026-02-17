@@ -4,6 +4,12 @@ title: El Arkhe
 nav_order: 1
 ---
 
+Bienvenida/o a **El Arkhe**.
+
+Selecciona una línea desde el menú izquierdo para comenzar.
+
+
+<!--
 <div class="iframe-container">
   <iframe
     src="{{ '/assets/postcards/jolla/index.html' | relative_url }}"
@@ -15,7 +21,7 @@ nav_order: 1
     allowfullscreen
   ></iframe>
 </div>
-
+-->
 
 <!--
 <a href="/talleres/" aria-label="Ir a Cuentos Moleculares"> <img src="/assets/img/postcard_cuentos_moleculares.png" alt="El Arkhe — Talleres Multiomics" style="display:block; margin: 12px auto 24px auto; max-width: 960px; width: 100%; border-radius: 10px;"/> </a>
