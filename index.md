@@ -39,3 +39,15 @@ Este sitio reúne información sobre las líneas formativas activas y los proyec
 **Cynthia S. Cardinault, PhD**  
 México  
 ✉️ [elarkhe@gmail.com](mailto:elarkhe@gmail.com)
+
+---
+
+<div style="text-align:center; margin-top:60px; opacity:0.85;">
+  <script type="text/javascript" id="clustrmaps"
+    src="//clustrmaps.com/map_v2.js?d=KL_rxoyvwLLAV8IA3mE1zgoA43OAbDIlda4lFKHNGRU&cl=ffffff&w=a">
+  </script>
+</div>
+
+
+
+
