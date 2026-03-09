@@ -2,14 +2,16 @@
 layout: default
 title: El Arkhe
 nav_order: 1
+tac: false
 ---
-
+<!--
 <p align="center">
 [![Official Site](https://img.shields.io/badge/Official%20Site-El%20Arkhe-0A66C2?style=for-the-badge)](https://elarkhe.github.io)
 [![GitHub Pages](https://img.shields.io/badge/Published%20with-GitHub%20Pages-222222?style=for-the-badge&logo=github)](https://elarkhe.github.io)
 [![Jekyll](https://img.shields.io/badge/Powered%20by-Jekyll-CC0000?style=for-the-badge&logo=jekyll)](https://jekyllrb.com/)
 [![Just the Docs](https://img.shields.io/badge/Documentation-Just%20the%20Docs-5C4EE5?style=for-the-badge)](https://just-the-docs.com/)
 </p>
+-->
 
 **Bienvenido a El Árkhe**
 
@@ -52,7 +54,7 @@ México
     <img
       src="https://clustrmaps.com/map_v2.png?d=KL_rxoyvwLLAV8IA3mE1zgoA43OAbDIlda4lFKHNGRU&cl=ffffff"
       alt="Visitor map"
-      style="width: 320px; max-width: 90%; height: auto; opacity: 0.85;"
+      style="width: 220px; max-width: 90%; height: auto; opacity: 0.85;"
     />
   </a>
 </div>

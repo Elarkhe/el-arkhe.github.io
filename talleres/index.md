@@ -6,7 +6,7 @@ has_children: true
 permalink: /talleres/
 has_toc: false
 ---
-
+<!--
 <div class="iframe-container">
   <iframe
     src="{{ '/assets/postcards/jolla/index.html' | relative_url }}"
@@ -18,6 +18,15 @@ has_toc: false
     allowfullscreen
   ></iframe>
 </div>
+-->
 
+Propuestas formativas centradas en **análisis de datos multi-ómicos**, impartidas en colaboración con instituciones educativas y especialistas asociados.
+
+## Navegación rápida
+
+- [Índice de talleres](/talleres/indice_talleres/)
+- [Modelo de enseñanza](/talleres/modelo_ensenanza/)
+- [Términos administrativos](/talleres/terminos_admon/)
+- [Contacto](/talleres/contacto/)
 
 
